@@ -68,7 +68,7 @@ public class Intro_01 { // through convention, the name of the class should star
         System.out.println(HOURS_IN_A_DAY);
 
 
-        System.out.println("--------------------PRIMITIVE DATA TYPES-----------------------");
+        System.out.println("--------------------PRIMITIVE DATA TYPES (CARE SUNT PREDEFINITE IN JAVA)-----------------------");
         System.out.println(
 
                 "A primitive data type specifies the size and type of variable values, and it has no additional methods. \n" +
@@ -82,6 +82,7 @@ public class Intro_01 { // through convention, the name of the class should star
                         "boolean - stores true or false values\n" +
                         "char - stores a single character/letter or ASCII values"
         );
+
         float num = 12.3456789f; // in order to define a float number we need to specify the f at the end of the string so that the system knows we are talking about a float
         double num1 = 12.34567890123456789;
         byte num2 = 36;
@@ -137,13 +138,15 @@ public class Intro_01 { // through convention, the name of the class should star
             */
         System.out.println("Arithmetic operators are used to perform common mathematical operations." +
                 "The arithmetic perators are:" +
-                "+" +
-                "-" +
-                "*" +
-                "/" +
-                "%" +
-                "++" +
-                "--");
+                "+" + // sum
+                "-" + // extraction
+                "*" + // multiplication
+                "/" + // division
+                "%" + // modulo (returns the remainder of the division)
+                "++" + // incrementing operator -> incresease the value of the variable with 1
+                "--"); // incrementing operator -> decresease the value of the variable with 1
+
+
         System.out.println("Assignment operators are used to assign values to variables." +
                 "The assignment operators are:" +
                 "=" +
@@ -151,6 +154,8 @@ public class Intro_01 { // through convention, the name of the class should star
                 "-=" +
                 "*=" +
                 "/=");
+
+
         System.out.println("Comparison operators are used to compare two values:" +
                 "The comparison operators are:" +
                 "==" +
@@ -159,6 +164,7 @@ public class Intro_01 { // through convention, the name of the class should star
                 "<" +
                 ">=" +
                 "<=");
+
         System.out.println("Logical operators are used to determine the logic between variables or values:" +
                 "The logical operators are:" +
                 "&&" +
