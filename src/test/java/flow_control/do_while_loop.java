@@ -1,4 +1,4 @@
-package LoopControlStatements;
+package flow_control;
 
 public class do_while_loop {
     public static void main(String[] args) {

@@ -19,6 +19,5 @@ public class ScannerClass {
             System.out.println("Introdu o nota intre 1 si 10");
         }
     }
-
 }
 

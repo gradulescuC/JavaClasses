@@ -1,4 +1,4 @@
-package LoopControlStatements;
+package flow_control;
 
 public class IfStatement {
     public static void main(String[] args) {
