@@ -79,7 +79,5 @@ println (care printeaza si apoi muta cursorul pe randul urmator)
         // A =  byteNumber>65  -> Conditia 1 = ADEVARATA
         // B = shortNumber >0 -> Conditia 2 -> ADEVARATA
         // C = intNumber!=intNumberTest -> Conditia 3 -> ADEVARATA
-
-
     }
 }
