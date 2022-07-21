@@ -4,7 +4,7 @@ Tema:
 // ghicitoare de cuvant
 // print cu hint : animal mare
 // in while o sa folositi scannerul ca in exemplul cu nota
-// 2 Intro_01 in care tineti cuvantul bun si cuv de la utilizator
+// 2 BasicJavaOperations.Intro_01 in care tineti cuvantul bun si cuv de la utilizator
 
 int x = 3;
 int[] numbers = {3, 3, 8, 3, 3, 5, 6, 3, 7, 3, 9, 3, 10};

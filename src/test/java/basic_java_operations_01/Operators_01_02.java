@@ -1,4 +1,6 @@
-public class Operators_02 {
+package basic_java_operations_01;
+
+public class Operators_01_02 {
     public static void main(String[] args) {
         System.out.println("------------------------Arithmetical operators - are used to perform mathematical calculations----------------------------");
         int x=7;

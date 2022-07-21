@@ -1,4 +1,4 @@
-package flow_control_06;
+package flow_control_05;
 
 public class do_while_loop_06_05 {
     public static void main(String[] args) {

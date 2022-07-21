@@ -1,4 +1,4 @@
-/*
+package basic_java_operations_01;/*
 
 NOTIONS TO COVER
 
@@ -18,7 +18,7 @@ Indentation = A space between the margin of the file and the line of code
 It is used for commenting multiple lines */
 
 
-public class Intro_01 { // through convention, the name of the class should start with uppercase
+public class Intro_01_01 { // through convention, the name of the class should start with uppercase
                                     // In Java it is mandatory that the name of the class should be the same as the name of the file
 
     public static void main(String[] args) {

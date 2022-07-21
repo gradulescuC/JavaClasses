@@ -1,4 +1,4 @@
-package flow_control_06;
+package flow_control_05;
 
 public class switch_statement_06_06 {
     public static void main(String[] args) {
